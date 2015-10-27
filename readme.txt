@@ -1,10 +1,8 @@
 ##################################################
-NAME: Jayaprakash S
-ROLL No. : 123050045
-MTech TA student 2012-2014
-RESEARCH AREA: Image Retrieval, Opinion Summarization
+NAME: Jayanth & Jayaprakash S
+RESEARCH AREA: Opinion Summarization
 ********************************************************************************************
-Title: Document Summarization with applications to Keyword extraction and Image Retrieval
+Title: Monotone Submodularity in Opinion Summaries
 ********************************************************************************************
 
 This Directory contains the following hierarchy:
@@ -17,4 +15,4 @@ This Directory contains the following hierarchy:
 	f. Scripts - Evaluation, Baseline, Sentiment Classification Scripts
 
 
-
+Refer https://aclweb.org/anthology/D/D15/D15-1017.pdf for paper.
